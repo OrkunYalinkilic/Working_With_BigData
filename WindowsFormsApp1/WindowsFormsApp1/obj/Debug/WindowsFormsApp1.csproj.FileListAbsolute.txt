@@ -1,0 +1,9 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\111-) Büyük Datalar İle Çalışmak - Uygulama\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
